@@ -16,19 +16,19 @@ body {
     background-repeat: no-repeat;
 }
 .balloon-red {
-    background-image: url(../images/balloon-red.png);
+    background-image: url(./images/balloon-red.png);
 }
 .balloon-yellow {
-    background-image: url(../images/balloon-yellow.png);
+    background-image: url(./images/balloon-yellow.png);
 }
 .balloon-blue {
-    background-image: url(../images/balloon-blue.png);
+    background-image: url(./images/balloon-blue.png);
 }
 .balloon-violet {
-    background-image: url(../images/balloon-violet.png);
+    background-image: url(./images/balloon-violet.png);
 }
 .balloon-green {
-    background-image: url(../images/balloon-green.png);
+    background-image: url(./images/balloon-green.png);
 }
 
 .total-shadow {

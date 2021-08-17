@@ -111,7 +111,7 @@ yesBtn.addEventListener('click', () => {
 })
 
 noBtn.addEventListener('click', () => {
-    totalShadow.style.display = 'none';
+    window.location.reload();
 })
 
 startBtn.addEventListener('click', () => {
